@@ -1,4 +1,4 @@
- <link rel="stylesheet" href="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1">
+ <link rel="stylesheet" href="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1.css">
 
 <div class="typewriter">
     <div class="typewriter-text">Hi 👋, I'm NIKHIL</div>
