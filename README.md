@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm NIKHIL</h1>
+ <link rel="stylesheet" href="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1">
+
+<div class="typewriter">
+    <div class="typewriter-text">Hi 👋, I'm NIKHIL</div>
+</div>
+
+<!-- <h1 align="center">Hi 👋, I'm NIKHIL</h1> -->
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
