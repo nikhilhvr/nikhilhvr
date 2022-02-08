@@ -1,4 +1,5 @@
- <link rel="stylesheet" href="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1.css">
+ <link href="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="https://github.com/nikhilhvr/MyWebProjects/blob/main/CSS_1.css" crossorigin="anonymous">
 
 <div class="typewriter">
     <div class="typewriter-text">Hi 👋, I'm NIKHIL</div>
