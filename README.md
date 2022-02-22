@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm NIKHIL</h1>
 <h3 align="center"></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhvr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhvr" /> </p>
 
 <h3 align="left">Connect with me:</h3>
