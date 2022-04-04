@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://twitter.com/nikhilhvvr" target="blank"><img align="center" src="https://c.tenor.com/QuB0ZDne_rYAAAAj/twitter-tweet.gif" alt="nikhilhvvr" height="30" width="40" /></a>
+<a href="https://twitter.com/nikhilhvr" target="blank"><img align="center" src="https://c.tenor.com/QuB0ZDne_rYAAAAj/twitter-tweet.gif" alt="nikhilhvvr" height="30" width="40" /></a>
   
 </p>
 
