@@ -1,4 +1,4 @@
-<img src ="https://media.giphy.com/media/KZFrf9JusXzmpnPsT6/giphy.gif" alt="">
+<!-- <img src ="https://downloadhdwallpapers.in/wp-content/uploads/2018/09/Round-Sphere-Moving-Animated-Download-Gif-Image.gif" alt=""> -->
 <h1 align="left">Hi <img src="https://media.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif" alt="nikhilhvr" height="40" /> , I'm NIKHIL</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhvr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhvr" /> </p>
