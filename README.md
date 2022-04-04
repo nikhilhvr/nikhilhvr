@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm NIKHIL</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="nikhilhvr" height="40" /> , I'm NIKHIL</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhvr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhvr" /> </p>
 
