@@ -1,7 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="nikhilhvr" height="40" /> , I'm NIKHIL</h1>
 <h3 align="center"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilhvr&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilhvr" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikhilhvvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilhvvr" height="30" width="40" /></a>
